@@ -1,0 +1,12 @@
+﻿l_english:
+ CIVIL_WAR_NAME:0 "$ORDER$ $SECOND$ İç Savaşı"
+ INDEPENDENCE_WAR_NAME:0 "$ORDER$ $FIRST$ Bağımsızlık Savaşı"
+ ND:0 "."
+ RD:0 "."
+ ST:0 "."
+ TH:0 "."
+ WAR_NAME:0 "$ORDER$ $FIRST$-$SECOND$ Savaşı"
+ WAR_NAME_ITA_ETH:0 "İtalya'nın Etiyopya Savaşı"
+ WAR_TAKE_CLAIM_NAME:0 "$ORDER$ $FIRST$ Tarafından $STATE$ İçin Saldırı"
+ WAR_TAKE_CORE_NAME:0 "$ORDER$ $FIRST$ Tarafından $STATE$ Geri Alınması"
+ create_puppet_wargoal_usa:0 "§HKukla (Odak)§! savaş hedefi §Y[ROOT.GetNameDef]§! tarafından kazanıldı!"

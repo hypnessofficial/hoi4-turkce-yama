@@ -1,0 +1,6 @@
+﻿l_english:
+ SIA_plant_indochina_port_charges_tt:0 "§YHintçin limanlarına§! gizli yıkım ücretleri uygulanıyor; Sahipleriyle savaşa girdiğimizde patlıyorlar."
+ operation_SIA_sabotage_indochina_ports:0 "Çinhindi Limanlarını Sabote Edin"
+ operation_SIA_sabotage_indochina_ports_desc:0 "Yıkım ekiplerini Fransız Çinhindi'nin büyük limanlarına gönderin ve rıhtımlara, vinçlere ve yakıt depolarına önceden saldırılar yapın. Yürüyeceğimiz güne kadar hareketsiz kalırlar ve düşman filosu onlara dağılmadan önce limanlar tek bir vuruşta yukarı çıkar."
+ operation_SIA_sabotage_indochina_ports_failed_tt:0 "§Rİşlem başarısız oldu:§! ekiplerimiz patlayıcıları yerleştiremedi."
+ operation_SIA_sabotage_indochina_ports_potential_tt:0 "§YBaşarılı olursa:§! Çinhindi limanlarında gizli yükler tesis eder (§YAnnam§!, §YTonkin§! ve §YKamboçya§!). Patlayıcılar, sahibiyle savaşa girdiğimiz anda patlıyor ve her deniz üssünü tamamen yok ediyor."

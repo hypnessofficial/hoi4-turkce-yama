@@ -1,0 +1,9 @@
+﻿l_english:
+ free_general_assault_holding_area:0 "Tutulma Alanına Taarruz"
+ free_general_assault_holding_area_desc:0 "Düşman, Komutanımızı operatiflerimiz tarafından tespit edilen güvenli bir yerde tutuyor. Tutsağı kurtarmak için cüretkar bir taarruz hazırlayacaklar."
+ free_general_disguise_and_extract:0 "Kılık Değiştir ve Tahliye Et"
+ free_general_disguise_and_extract_desc:0 "Operatiflerimiz, üstün kurnazlıklarını kullanarak esir alınan Komutanın kılık değiştirmesine yardım edecek, böylece onu esir alanları kandırarak dost topraklara kaçmasını sağlayacaklar."
+ free_general_free_in_transit:0 "İntikal Sırasında Kurtar"
+ free_general_free_in_transit_desc:0 "Operatiflerimiz, hedefin yaklaşan transferini tespit etti ve yolda intikali durdurup pusuya düşürmek için bir fırsat planlayacak."
+ operation_rescue_general:0 "Esir Alınan Komutanı Kurtar"
+ operation_rescue_general_desc:0 "§LKomutanlarımızdan biri düşman tarafından esir alındı ve tutsak ediliyor. Onu kurtarmak için bir operasyon düzenlemeliyiz.§!"

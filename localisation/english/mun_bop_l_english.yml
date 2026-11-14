@@ -1,0 +1,13 @@
+﻿l_english:
+ CZE_bop_army_high_confidence:0 "Hazırlıklı Ordu"
+ CZE_bop_army_low_confidence:0 "Hazırlıksız Ordu"
+ CZE_bop_army_readiness:0 "Ordu Hazırlığı"
+ CZE_bop_army_readiness_left_side:0 "Hazırlıksız Ordu"
+ CZE_bop_army_readiness_middle:0 "Orta Ordu Hazırlığı"
+ CZE_bop_army_readiness_of_power_category:0 "Çek Ordusu birleşmiş durumda ve önündeki zorluklarla yüzleşmeye hazır. Ancak iç siyaset ve uluslararası olaylar, Ordu'nun ülkeyi düzgün bir şekilde savunma konusundaki güvenini sarsabilir."
+ CZE_bop_army_readiness_of_power_category_desc:0 "Çek Ordusu birleşmiş durumda ve önündeki zorluklarla yüzleşmeye hazır. Ancak iç siyaset ve uluslararası olaylar, Ordu'nun ülkeyi düzgün bir şekilde savunma konusundaki güvenini sarsabilir."
+ CZE_bop_army_readiness_right_side:0 "Hazırlıklı Ordu"
+ CZE_bop_army_very_high_confidence:0 "Tam Hazırlıklı Ordu"
+ CZE_bop_army_very_low_confidence:0 "Hiç Hazır Olmayan Ordu"
+ CZE_bop_has_started_tt:0 "§Y[ROOT.GetName]§! bünyesinde §Y$CZE_bop_army_readiness$§! Güç Dengesi başladı."
+ CZE_bop_modifier_czech_sovereignty_is_threatened:0 "Tehditkâr Komşular"

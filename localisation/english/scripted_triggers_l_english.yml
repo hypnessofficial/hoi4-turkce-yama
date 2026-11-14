@@ -1,0 +1,11 @@
+﻿l_english:
+ has_war_with_non_exiled_country_tt:0 "Sürgünde olmayan bir ülkeyle savaş halinde"
+ is_alpine_TT:0 "Alp Eyaletidir"
+ is_at_peace_exiled_countries_excluded_tt:0 "Barışta (sürgündeki ülkelerle savaş hariç)"
+ is_controlled_by_ROOT_or_ally:0 "§H[Root.GetNameDef]§! veya müttefiklerinden biri tarafından kontrol ediliyor."
+ is_league_of_nations_member_tt:0 "Milletler Cemiyeti Üyesi Ülkedir"
+ is_not_controlled_by_ROOT_or_ally:0 "§H[Root.GetNameDef]§! veya müttefiklerinden biri tarafından §Ykontrol edilmiyor§!."
+ state_is_fully_controlled_by_ROOT_or_subject_tt:0 "Tamamen §Y[ROOT.GetFlag][ROOT.GetNameDef]§! veya herhangi bir §Y[ROOT.GetAdjective] tebaası§! tarafından kontrol ediliyor!"
+ state_is_fully_controlled_by_ROOT_or_subject_tt_NOT:0 "NOT: $state_is_fully_controlled_by_ROOT_or_subject_tt$"
+ state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt:0 "Tamamen §Y[ROOT.GetFlag][ROOT.GetNameDef]§!, herhangi bir §Y[ROOT.GetAdjective] tebaası§! veya §Yittifak üyesi§! tarafından kontrol ediliyor!"
+ state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt_NOT:0 "NOT: $state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt$"
