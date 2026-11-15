@@ -1,0 +1,2 @@
+*.yml linguist-language=YAML
+*.mod linguist-detectable=false
